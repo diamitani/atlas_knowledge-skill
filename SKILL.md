@@ -1,4 +1,10 @@
-# {{COMPANY_NAME}} — GTM Knowledge Base
+---
+name: enterprise_platform-knowledge
+description: >
+  Authoritative company knowledge for sales, outreach, and GTM automation. Sourced from internal fact files, sales decks, proposals, and product documentation. Use this skill when working with enterprise_platform knowledge tasks or workflows.
+---
+
+# Enterprise Platform — GTM Knowledge Base
 
 Authoritative company knowledge for sales, outreach, and GTM automation. Sourced from internal fact files, sales decks, proposals, and product documentation.
 
@@ -8,7 +14,7 @@ Authoritative company knowledge for sales, outreach, and GTM automation. Sourced
 
 | Field | Detail |
 |-------|--------|
-| **Legal name** | {{COMPANY_NAME}} Technology Solutions Inc. |
+| **Legal name** | Enterprise Platform Technology Solutions Inc. |
 | **Structure** | Privately held C Corporation, incorporated in Delaware |
 | **HQ** | Chicago, Illinois |
 | **Founded** | ~2015/2016 |
@@ -31,9 +37,9 @@ Authoritative company knowledge for sales, outreach, and GTM automation. Sourced
 ## Core Services
 
 ### 1. Employer of Record (EOR) — Primary Product
-{{COMPANY_NAME}} legally employs workers on behalf of client companies in 160+ countries. The client directs the work; {{COMPANY_NAME}} handles all legal employment obligations.
+Enterprise Platform legally employs workers on behalf of client companies in 160+ countries. The client directs the work; Enterprise Platform handles all legal employment obligations.
 
-**What {{COMPANY_NAME}} handles:**
+**What Enterprise Platform handles:**
 - Locally compliant employment contracts
 - Payroll processing in local currency (statutory pay frequencies)
 - Statutory benefits (social insurance, health insurance, unemployment insurance)
@@ -42,7 +48,7 @@ Authoritative company knowledge for sales, outreach, and GTM automation. Sourced
 - Employee onboarding and offboarding (8–14 day average)
 - HR policy facilitation (performance reviews, disciplinary, promotions)
 
-**Key differentiator:** {{COMPANY_NAME}} owns its entities in every country — no subcontractors. This means single-point accountability, no hidden markups, and direct compliance responsibility.
+**Key differentiator:** Enterprise Platform owns its entities in every country — no subcontractors. This means single-point accountability, no hidden markups, and direct compliance responsibility.
 
 ### 2. Global Payroll Management
 - Multi-currency processing: USD, GBP, EUR (FX fee applies if billing ≠ local currency)
@@ -74,7 +80,7 @@ Authoritative company knowledge for sales, outreach, and GTM automation. Sourced
 - VMS system integrations
 
 ### 6. Professional Development
-- Udemy Business integration: 35,000+ courses available to {{COMPANY_NAME}}-employed workers
+- Udemy Business integration: 35,000+ courses available to Enterprise Platform-employed workers
 - First EOR to offer this — strong retention and talent attraction angle
 
 ### 7. Market Intelligence Tools
@@ -166,43 +172,43 @@ Week 5+: Employee Onboarding
 - <20 employees
 - Government/public sector
 - Purely domestic operations
-- Existing {{COMPANY_NAME}} customers (dedup against CRM)
+- Existing Enterprise Platform customers (dedup against CRM)
 
 ---
 
 ## Competitive Positioning
 
-### {{COMPANY_NAME}} vs. Indirect EOR (Deel, Remote, Velocity Global using aggregators)
+### Enterprise Platform vs. Indirect EOR (Deel, Remote, Velocity Global using aggregators)
 
-| Factor | {{COMPANY_NAME}} (Direct) | Indirect Competitors |
+| Factor | Enterprise Platform (Direct) | Indirect Competitors |
 |--------|---------------|----------------------|
 | Entity ownership | Own entities in 160+ countries | Use third-party in-country vendors |
-| Accountability | Single point: {{COMPANY_NAME}} | Fragmented across vendors |
+| Accountability | Single point: Enterprise Platform | Fragmented across vendors |
 | Pricing predictability | Transparent, direct | Third-party markups, unpredictable |
-| Compliance responsibility | {{COMPANY_NAME}} directly liable | Shared/unclear liability |
+| Compliance responsibility | Enterprise Platform directly liable | Shared/unclear liability |
 | Support | Dedicated in-house team | Outsourced or chatbot-heavy |
 | Professional development | Udemy Business included | Not offered |
 | Speed | 8-14 day avg. onboarding | Varies by market/vendor |
 
-### {{COMPANY_NAME}} vs. Setting up a local entity
+### Enterprise Platform vs. Setting up a local entity
 
-| Factor | {{COMPANY_NAME}} EOR | Entity Setup |
+| Factor | Enterprise Platform EOR | Entity Setup |
 |--------|----------|-------------|
 | Time to first hire | Days to weeks | 6–12 months |
 | Upfront cost | Deposit + monthly fee | $50K–$150K+ setup |
-| Ongoing compliance | {{COMPANY_NAME}} handles all | Internal team required |
+| Ongoing compliance | Enterprise Platform handles all | Internal team required |
 | Flexibility | Scale up/down instantly | Fixed overhead |
-| Risk | {{COMPANY_NAME}} absorbs | Client absorbs |
+| Risk | Enterprise Platform absorbs | Client absorbs |
 
 ### Competitor quick reference
 - **Deel:** Aggregator model in many markets, known for contractor payments, strong product marketing
 - **Remote:** Aggregator in some markets, positioning as tech-first, popular with startups
 - **Rippling:** HR platform + EOR, US-centric, strong product but less deep global compliance
 - **Velocity Global:** Aggregator model, enterprise focus, complex pricing
-- **{{COMPANY_NAME}}:** Direct everywhere, compliance depth, human support model, Udemy differentiator
+- **Enterprise Platform:** Direct everywhere, compliance depth, human support model, Udemy differentiator
 
 ### Displacement messaging (when prospect uses a competitor)
-> "Most EOR providers in [country] rely on third-party vendors — which means compliance gaps, hidden markups, and accountability that stops at the vendor's door. {{COMPANY_NAME}} owns its entity there directly. One relationship, full accountability."
+> "Most EOR providers in [country] rely on third-party vendors — which means compliance gaps, hidden markups, and accountability that stops at the vendor's door. Enterprise Platform owns its entity there directly. One relationship, full accountability."
 
 ---
 
@@ -223,9 +229,9 @@ Week 5+: Employee Onboarding
 
 ---
 
-## Recommended Hiring Markets (from {{COMPANY_NAME}} Market Analysis)
+## Recommended Hiring Markets (from Enterprise Platform Market Analysis)
 
-Markets {{COMPANY_NAME}} recommends to clients for cost-effective global hiring:
+Markets Enterprise Platform recommends to clients for cost-effective global hiring:
 
 | Market | Est. Annual Cost | Talent Pool | Risk Level |
 |--------|-----------------|-------------|------------|
@@ -238,13 +244,13 @@ Markets {{COMPANY_NAME}} recommends to clients for cost-effective global hiring:
 
 ---
 
-## {{COMPANY_NAME}} Client Responsibilities (important for sales conversations)
+## Enterprise Platform Client Responsibilities (important for sales conversations)
 
-Things clients must handle themselves (NOT {{COMPANY_NAME}}'s scope):
+Things clients must handle themselves (NOT Enterprise Platform's scope):
 - Providing computers/hardware (or budget for employee to purchase)
-- Setting employee salaries ({{COMPANY_NAME}} provides guidance, audits, compliance checks)
-- Directing employee work ({{COMPANY_NAME}} is legal employer, client is the work-directing employer)
-- Direct communication for termination negotiations ({{COMPANY_NAME}} handles paperwork and compliance)
+- Setting employee salaries (Enterprise Platform provides guidance, audits, compliance checks)
+- Directing employee work (Enterprise Platform is legal employer, client is the work-directing employer)
+- Direct communication for termination negotiations (Enterprise Platform handles paperwork and compliance)
 
 ---
 
@@ -256,11 +262,11 @@ Things clients must handle themselves (NOT {{COMPANY_NAME}}'s scope):
 - Process: Digital census → contract generation → employee signing → payroll enrollment
 
 **Offboarding:**
-- 60-day notice to {{COMPANY_NAME}} required for mutual agreement terminations
+- 60-day notice to Enterprise Platform required for mutual agreement terminations
 - Final pay including accrued PTO within 14 working days of termination
 - Off-cycle processing fee: $250
 
-**Country-specific variation:** Some markets (e.g., regulated labor markets in Europe, LATAM) may require longer notice or have specific statutory severance requirements. {{COMPANY_NAME}} handles all of this.
+**Country-specific variation:** Some markets (e.g., regulated labor markets in Europe, LATAM) may require longer notice or have specific statutory severance requirements. Enterprise Platform handles all of this.
 
 ---
 
@@ -270,7 +276,7 @@ Things clients must handle themselves (NOT {{COMPANY_NAME}}'s scope):
 → Direct model means no hidden third-party markups. Total cost of ownership is actually lower when you factor in compliance incidents, vendor failures, and the time your team spends managing multiple vendor relationships.
 
 **"We can just set up our own entity"**
-→ Entity setup takes 6–12 months and $50K–$150K+ in legal/accounting fees. With {{COMPANY_NAME}} you can hire in days. And when the market changes, you can scale down instantly — you're not stuck with a fixed legal structure.
+→ Entity setup takes 6–12 months and $50K–$150K+ in legal/accounting fees. With Enterprise Platform you can hire in days. And when the market changes, you can scale down instantly — you're not stuck with a fixed legal structure.
 
 **"We're already using [competitor]"**
 → [See displacement messaging above]. Ask: "How many of those markets are direct vs. through a local vendor?" The answer usually creates the opening.
