@@ -1,7 +1,7 @@
-# {{COMPANY_NAME}} — GTM Knowledge Base
+# Enterprise Platform — GTM Knowledge Base
 
 **Category:** 99-uncategorized
-**Source:** atlas-knowledge.md
+**Source:** enterprise_platform-knowledge.md
 **Generated:** 2026-08-28
 
 ## Overview
@@ -12,16 +12,16 @@ This repository contains a generalized AI agent skill ready for use with Claude 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/diamitani/atlas_knowledge-skill.git
+   git clone https://github.com/diamitani/enterprise_knowledge-skill.git
    ```
 
 2. Import the skill into your agent framework:
    ```bash
-   # For Claude Code
+   # for AI Agents (Claude Code, Cursor, Copilot, Cline, Windsurf, Hermes)
    @skill SKILL.md
    
    # For Hermes Agent
-   skill_view(name='atlas_knowledge')
+   skill_view(name='enterprise_knowledge')
    ```
 
 ## Configuration
